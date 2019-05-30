@@ -1,0 +1,12 @@
+body {
+    background: #222;
+    color:white;
+    font-family:helvetica, arial, sans-serif;
+}
+#pofs-crypto-prices-section {
+    display:flex;
+    justify-content: space-between;
+    margin:3.0em;
+    max-height:35.0em;
+    overflow-y: auto;
+}
